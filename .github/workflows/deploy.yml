@@ -35,7 +35,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "mishaholdin-fairytails-44"
-          entrypoint: ""
+          entrypoint: "npm run start"
           root: ""
           
           
